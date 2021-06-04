@@ -13,3 +13,9 @@ pix
 shelf
 station
 vvave
+
+#    = Maui sub-frameworks =
+
+mauikit-filebrowsing
+mauikit-texteditor
+mauikit-imagetools
