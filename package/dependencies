@@ -1,13 +1,16 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
+#    = MauiKit =
+
+qml-module-org-mauikit
+
 #    = Maui apps =
 
 buho
 clip
 communicator
 index
-mauikit
 nota
 pix
 shelf
@@ -16,9 +19,10 @@ vvave
 
 #    = Maui sub-frameworks =
 
-filebrowsing
-texteditor
-imagetools
+qml-module-org-mauikit-accounts
+qml-module-org-mauikit-filebrowsing
+qml-module-org-mauikit-imagetools
+qml-module-org-mauikit-texteditor
 
 #    = Maui support bits =
 
