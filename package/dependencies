@@ -3,7 +3,7 @@
 
 #    = MauiKit =
 
-qml-module-org-kde-mauikit
+mauikit
 
 #    = Maui apps =
 
@@ -19,11 +19,12 @@ vvave
 
 #    = Maui sub-frameworks =
 
-qml-module-org-mauikit-accounts
-qml-module-org-mauikit-filebrowsing
-qml-module-org-mauikit-imagetools
-qml-module-org-mauikit-texteditor
+mauikit-accounts
+mauikit-filebrowsing
+mauikit-imagetools
+mauikit-texteditor
 
 #    = Maui support bits =
 
 kquickimageeditor
+taglib-compat
