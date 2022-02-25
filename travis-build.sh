@@ -10,10 +10,11 @@ git_commit=$(git rev-parse --short HEAD)
 	"Section: misc" \
 	"Priority: optional" \
 	"Homepage: https://nxos.org" \
-	"Package: maui-apps" \
-	"Version: 0.0.4-$git_commit" \
+	"Package: maui-apps-git" \
+	"Version: 0.0.6-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
+	"Provides: maui-apps" \
 	"Architecture: amd64" \
 	"Description: Maui Apps metapackage for Nitrux."
 
