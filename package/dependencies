@@ -10,12 +10,16 @@ maui-manager-git
 #    = Maui sub-frameworks =
 
 mauikit-accounts-git
+mauikit-calendar-git
+mauikit-documents-git
 mauikit-filebrowsing-git
 mauikit-imagetools-git
 mauikit-texteditor-git
+mauikit-terminal-git
 
 #    = Maui apps =
 
+arca-git
 agenda-git
 bonsai-git
 booth-git
