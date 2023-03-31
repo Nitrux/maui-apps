@@ -20,9 +20,9 @@ mauikit-terminal-git
 #    = Maui apps =
 
 arca-git
-agenda-git
+#   agenda-git -- doesn't work atm
 bonsai-git
-booth-git
+#   booth-git -- doesn't work atm
 buho-git
 communicator-git
 clip-git
