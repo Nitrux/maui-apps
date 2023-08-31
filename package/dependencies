@@ -4,7 +4,7 @@
 #    = MauiKit =
 
 mauikit-git
-maui-core-git
+# maui-core-git
 maui-manager-git
 
 #    = Maui sub-frameworks =
@@ -28,7 +28,7 @@ communicator-git
 clip-git
 fiery-git
 index-git
-maui-settings-git
+# maui-settings-git
 nota-git
 pix-git
 shelf-git
