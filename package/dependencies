@@ -9,11 +9,11 @@ maui-manager-git
 
 #    = Maui sub-frameworks =
 
-mauikit-accounts-git
+# mauikit-accounts-git
 # mauikit-calendar-git
-mauikit-documents-git
+# mauikit-documents-git
 mauikit-filebrowsing-git
-mauikit-imagetools-git
+# mauikit-imagetools-git
 mauikit-texteditor-git
 mauikit-terminal-git
 
@@ -21,20 +21,20 @@ mauikit-terminal-git
 
 # arca-git
 # agenda-git
-bonsai-git
+# bonsai-git
 # booth-git
-buho-git
+# buho-git
 # communicator-git
-clip-git
+# clip-git
 # fiery-git
 index-git
 # maui-settings-git
-nota-git
-pix-git
-shelf-git
+# nota-git
+# pix-git
+# shelf-git
 station-git
-strike-git
-vvave-git
+# strike-git
+# vvave-git
 
 #    = Maui support bits =
 
