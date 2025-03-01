@@ -26,7 +26,7 @@ bonsai-git
 buho-git
 # communicator-git
 clip-git
-# fiery-git
+fiery-git
 index-git
 # maui-settings-git
 nota-git
@@ -37,5 +37,3 @@ strike-git
 vvave-git
 
 #    = Maui support bits =
-
-qml-module-org-kde-kquickimageeditor
