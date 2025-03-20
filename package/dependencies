@@ -39,3 +39,4 @@ vvave-git
 #    = Maui support bits =
 
 qml6-module-qtqml-workerscript
+qt6-wayland
