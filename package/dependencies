@@ -3,38 +3,38 @@
 
 #    = MauiKit =
 
-mauikit-git
-# maui-core-git
-maui-manager-git
+mauikit
+# maui-core
+maui-manager
 
 #    = Maui sub-frameworks =
 
-# mauikit-accounts-git
-# mauikit-calendar-git
-mauikit-documents-git
-mauikit-filebrowsing-git
-mauikit-imagetools-git
-mauikit-texteditor-git
-mauikit-terminal-git
+# mauikit-accounts
+# mauikit-calendar
+mauikit-documents
+mauikit-filebrowsing
+mauikit-imagetools
+mauikit-texteditor
+mauikit-terminal
 
 #    = Maui apps =
 
-# arca-git
-# agenda-git
-# bonsai-git
-# booth-git
-buho-git
-# communicator-git
-clip-git
-fiery-git
-index-git
-# maui-settings-git
-nota-git
-pix-git
-shelf-git
-station-git
-strike-git
-vvave-git
+# arca
+# agenda
+# bonsai
+# booth
+buho
+# communicator
+clip
+fiery
+index
+# maui-settings
+nota
+pix
+shelf
+station
+strike
+vvave
 
 #    = Maui support bits =
 
