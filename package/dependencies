@@ -38,6 +38,8 @@ vvave
 
 #    = Maui support bits =
 
+libexiv2-28
+libkexiv2qt6-0
 libkf6archive6
 libkf6authcore6
 libkf6bookmarks6
@@ -88,6 +90,7 @@ libkirigamilayouts6
 libkirigamiplatform6
 libkirigamiprimitives6
 libkirigamiprivate6
+libopencv-highgui410
 libqt6core5compat6
 libqt6core6t64
 libqt6dbus6
@@ -127,7 +130,9 @@ libqt6webenginequick6
 libqt6widgets6
 libqt6wlshellintegration6
 libqt6xml6
+libtesseract5
 qml6-module-org-kde-kirigami
+qml6-module-org-kde-kquickimageeditor
 qml6-module-org-kde-sonnet
 qml6-module-qtcore
 qml6-module-qtmultimedia
