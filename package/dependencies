@@ -10,7 +10,8 @@ maui-manager
 #    = Maui sub-frameworks =
 
 mauikit-accounts
-# mauikit-calendar
+mauikit-archiver
+mauikit-calendar
 mauikit-documents
 mauikit-filebrowsing
 mauikit-imagetools
