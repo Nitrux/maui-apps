@@ -4,10 +4,8 @@
 #    = MauiKit =
 
 mauikit
-# maui-core
-maui-manager
 
-#    = Maui sub-frameworks =
+#    = MauiKit frameworks =
 
 mauikit-accounts
 mauikit-archiver
@@ -15,26 +13,20 @@ mauikit-calendar
 mauikit-documents
 mauikit-filebrowsing
 mauikit-imagetools
-mauikit-texteditor
+mauikit-system
 mauikit-terminal
+mauikit-texteditor
 
-#    = Maui apps =
+#    = MauiKit apps =
 
-# arca
-# agenda
-# bonsai
-# booth
 buho
-# communicator
-# clip
 fiery
 index
-# maui-settings
+maui-settings
 nota
 pix
 shelf
 station
-# strike
 vvave
 
 #    = Other KDE or Qt software =
