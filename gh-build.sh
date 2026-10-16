@@ -20,6 +20,6 @@ git_commit=$(git rev-parse --short HEAD 2>/dev/null)
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Architecture: all" \
-	"Description: Maui Apps metapackage for Nitrux."
+	"Description: MauiKit Apps metapackage for Nitrux."
 
 equivs-build configuration
